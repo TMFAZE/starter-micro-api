@@ -47,4 +47,4 @@ async def stop(ctx):
     voice = get(bot.voice_clients, guild=ctx.guild)
     voice.stop()
 
-bot.run('YOUR BOT TOKEN HERE')
+bot.run('bb502c1384b6bce9918733ca55fec01f1b5acfe38adf382b3db48af208832ce3')
